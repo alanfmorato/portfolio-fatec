@@ -15,13 +15,14 @@ Minha experiência profissional sempre teve muito a ver com dados e/ou produto. 
 ## Índice
 - [1° Semestre - 01/2022](#1-semestre---012022)
 - [2° Semestre - 02/2022](#2-semestre---022022)
+- [4° Semestre - 02/2022](#4-semestre---022023)
 
 
 ## Beta
 <h3 id="1-semestre---012022">1° Semestre - 01/2022<h2>
 
 Parceiro Acadêmico: Professor Fatec - Fabiano Sabha
-<p align="center"><img src="https://github.com/alanfmorato/portfolio-fatec/assets/102003274/0eabdd0a-3bbc-4c46-9433-9b9b5e902a92" widht="50px"></img>
+<p align="center"><img src="" widht="20%"></img>
 
 ### 💻 Nossa proposta
 
@@ -497,9 +498,110 @@ Figma: utilizado para o desenvolvimento e prototipação das wireframes.
 </details>
 
 
+## Jaia
+<h3 id="4-semestre---022023">4° Semestre - 02/2023</h2>
 
+Parceiro Acadêmico: Jaia
+<p align="center"><img src="" widht="20%"></img>
 
+### Empresa parceira
 
+Jaia Software Em um cenário onde a paisagem urbana se compõe de uma mistura de edifícios modernos e históricos, a empresa Jaia, apresentou um desafio significativo. A condução de inspeções prediais estava provando ser uma tarefa morosa e suscetível a imprecisões. Diante desse cenário, a Jaia buscou soluções inovadoras para otimizar esse processo crucial. A visão estratégica da empresa contemplou o desenvolvimento de um software de inspeção predial, projetado para revolucionar a abordagem atual. A plataforma concebida promete oferecer uma experiência intuitiva, capacitando os inspetores a documentar minuciosamente detalhes relevantes e capturar evidências visuais de forma eficaz. Adicionalmente, a geração instantânea de relatórios abastecerá a tomada de decisões embasadas. A Jaia, reconhecendo a necessidade de aprimorar a qualidade e eficiência das inspeções, direcionou seus esforços para o desenvolvimento desse software inovador. O resultado obtido transcendeu as expectativas iniciais, beneficiando não somente a empresa, mas também elevando o padrão das inspeções prediais na esfera urbana, contribuindo, assim, para uma maior segurança e excelência nas estruturas urbanas.
 
+### 💻 Nossa proposta
 
+A Pro4tech está atualmente em processo de expansão e abertura de várias vagas para a contratação de novos profissionais. Diante desse cenário, a empresa reconheceu a necessidade de implementar um software que permitisse registrar e gerenciar de forma eficiente todas as vagas disponíveis no mercado.
 
+Solução para o Problema:
+A solução para atender a essa demanda consistirá na criação de um sistema desktop abrangente. Este sistema proporcionará à Pro4tech o controle total sobre o ciclo de vida das vagas, oferecendo funcionalidades como cadastro, exclusão e edição de vagas. Além disso, permitirá o cadastro de usuários responsáveis pela aplicação das vagas e a geração de relatórios para uma análise mais aprofundada.
+
+Com essa solução, a Pro4tech terá uma ferramenta poderosa e centralizada para administrar seu processo de contratação de forma eficaz. A interface intuitiva do sistema desktop facilitará a gestão de vagas e usuários, proporcionando uma abordagem simplificada para todas as etapas do recrutamento. Essa solução visa otimizar o processo de contratação, melhorando a eficiência e permitindo que a Pro4tech tome decisões mais informadas e estratégicas em seu crescimento organizacional.
+
+### Modelagem
+
+<h3 align="center">DER</h3>
+<p align="center"><img src="" widht="20%"></img>
+
+<h3 align="center">MER</h3>
+<p align="center"><img src="" widht="20%"></img>
+
+### Tecnologias Utilizadas
+
+Java: Utilizado para desenvolvimento tanto no Back-end quanto no Front-end.
+
+JavaScript: Linguagem de programação fundamental para interatividade em páginas web.
+
+Vue: Framework JavaScript utilizado para construir interfaces de usuário.
+
+HTML: Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.
+
+CSS: Utilizado para estilizar e formatar o conteúdo HTML das páginas web.
+
+Oracle SQL: Linguagem de consulta estruturada utilizada para interagir com o banco de dados Oracle.
+
+Figma: utilizado para o desenvolvimento e prototipação das wireframes.
+
+### Lições Aprendidas
+
+<p align="justify"></p>
+
+<h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <p1>
+    Desenvolvimento de Software: Desenvolver um software de inspeção predial envolve habilidades técnicas específicas, como escrever código eficiente e escalável em Java, JavaScript, Vue, HTML e CSS.
+  </p1>
+  
+  <p1>
+    Banco de Dados: Utilização de Oracle SQL para armazenar e gerenciar dados relacionados aos clientes, departamentos, funcionários, requisições, ordens de serviço e outras informações relevantes do sistema.
+  </p1>
+  
+  <p1>
+    Gestão de Projetos de Software: Organização e priorização das funcionalidades do software através do Product Backlog, garantindo que as necessidades essenciais sejam atendidas de acordo com a importância estabelecida.
+  </p1>
+  
+  <p1>
+    Automação de Processos: Implementação de automações para envio de e-mails após certos eventos, como o cadastro de clientes, aprovação/reprovação de ordens de serviço e criação de laudos técnicos.
+  </p1>
+</details>
+
+<h3>Soft Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de soft skills</b></summary>
+  <p1>
+    Comunicação Efetiva: Comunicar-se de forma clara e concisa com os stakeholders, entendendo e traduzindo suas necessidades em requisitos de software compreensíveis para a equipe de desenvolvimento.
+  </p1>
+  
+  <p1>
+    Colaboração: Trabalhar em equipe para desenvolver e aprimorar o software, compartilhando ideias, solucionando problemas e garantindo a integração harmoniosa de diferentes componentes e funcionalidades.
+  </p1>
+  
+  <p1>
+    Resolução de Problemas: Identificar desafios durante o desenvolvimento do software e buscar soluções eficazes, seja lidando com questões técnicas complexas ou adaptando-se a mudanças nos requisitos do projeto.
+  </p1>
+  
+  <p1>
+    Adaptabilidade: Capacidade de se adaptar a novas tecnologias, requisitos do projeto e demandas dos usuários, garantindo que o software permaneça relevante e eficaz em um ambiente em constante evolução.
+  </p1>
+  
+  <p1>
+    Gestão do Tempo: Priorizar tarefas e gerenciar o tempo de forma eficiente para cumprir prazos e entregar um produto de alta qualidade dentro do cronograma estabelecido.
+  </p1>
+</details>
+
+<h3>Contribuições Individuais</h3>
+<details>
+  <summary><b>Contribuição Individual: Desenvolvimento Abrangente de Todos os Wireframes</b></summary>
+  <br>
+  <p>
+  Durante o projeto, desempenhei um papel fundamental no desenvolvimento de todos os wireframes. Responsável por transformar conceitos e ideias em representações visuais tangíveis, dediquei-me a criar wireframes que capturavam não apenas a funcionalidade, mas também a experiência do usuário desejada. Utilizando uma abordagem centrada no usuário, busquei compreender as necessidades e expectativas dos usuários finais para criar interfaces intuitivas e eficazes. Através de iterações cuidadosas e colaboração próxima com a equipe, refinei continuamente os wireframes para garantir que estivessem alinhados com os objetivos do projeto e as melhores práticas de design. Meu compromisso com a qualidade e a atenção aos detalhes resultou em wireframes precisos e completos que serviram como um guia valioso para o desenvolvimento posterior do projeto.
+  </p>
+</details>
+
+<details>
+  <summary><b>Contribuição como Product Owner</b></summary>
+  <br>
+  <p>Como Product Owner do projeto, minha contribuição foi fundamental na definição e priorização de todas as funcionalidades implementadas. Minha responsabilidade incluiu a identificação e comunicação claras dos requisitos do cliente, garantindo que as entregas estivessem alinhadas com as metas estratégicas da equipe.</p>
+  <p>A definição de cada funcionalidade passou por uma análise criteriosa, considerando a usabilidade, a eficiência operacional e a experiência do usuário. Meu papel foi orientar a equipe na criação de soluções que atendessem não apenas aos requisitos técnicos, mas também às expectativas e necessidades dos usuários finais.</p>
+  <p>Minha atuação como Product Owner foi essencial para garantir que o desenvolvimento do produto estivesse alinhado com a visão global da empresa, buscando sempre melhorar a qualidade e a eficácia do produto final. A colaboração estreita com a equipe permitiu a entrega de funcionalidades que agregam valor ao usuário e impulsionam os objetivos estratégicos do projeto.</p>
+</details>
