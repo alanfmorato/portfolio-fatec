@@ -21,7 +21,7 @@ Minha experiência profissional sempre teve muito a ver com dados e/ou produto. 
 <h3 id="1-semestre---012022">1° Semestre - 01/2022<h2>
 
 Parceiro Acadêmico: Professor Fatec - Fabiano Sabha
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/alanfmorato/portfolio-fatec/assets/102003274/0eabdd0a-3bbc-4c46-9433-9b9b5e902a92" widht="20%"></img>
 
 ### 💻 Nossa proposta
 
