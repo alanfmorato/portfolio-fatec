@@ -502,7 +502,7 @@ Figma: utilizado para o desenvolvimento e prototipação das wireframes.
 <h3 id="4-semestre---022023">4° Semestre - 02/2023</h2>
 
 Parceiro Acadêmico: Jaia
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/alanfmorato/portfolio-fatec/assets/102003274/fe99dd3a-8031-4255-a70c-8884a9418d11" widht="20%"></img>
 
 ### Empresa parceira
 
@@ -520,10 +520,10 @@ Com essa solução, a Pro4tech terá uma ferramenta poderosa e centralizada para
 ### Modelagem
 
 <h3 align="center">DER</h3>
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/alanfmorato/portfolio-fatec/assets/102003274/d1fd2015-9328-41a7-8924-1de869afc32b" widht="20%"></img>
 
 <h3 align="center">MER</h3>
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/alanfmorato/portfolio-fatec/assets/102003274/226603d5-a520-436b-9e33-e75cbbca2f27" widht="20%"></img>
 
 ### Tecnologias Utilizadas
 
@@ -596,6 +596,22 @@ Figma: utilizado para o desenvolvimento e prototipação das wireframes.
   <p>
   Durante o projeto, desempenhei um papel fundamental no desenvolvimento de todos os wireframes. Responsável por transformar conceitos e ideias em representações visuais tangíveis, dediquei-me a criar wireframes que capturavam não apenas a funcionalidade, mas também a experiência do usuário desejada. Utilizando uma abordagem centrada no usuário, busquei compreender as necessidades e expectativas dos usuários finais para criar interfaces intuitivas e eficazes. Através de iterações cuidadosas e colaboração próxima com a equipe, refinei continuamente os wireframes para garantir que estivessem alinhados com os objetivos do projeto e as melhores práticas de design. Meu compromisso com a qualidade e a atenção aos detalhes resultou em wireframes precisos e completos que serviram como um guia valioso para o desenvolvimento posterior do projeto.
   </p>
+
+
+## Wireframes
+### Requisições
+Quando um cliente preenche a requisição, o dado aparecerá em nosso sistema, será possível abrir, preencher as informações complementares e criar a ordem de serviço.
+
+![Requisições](https://github.com/Data-Team23/Jaia/assets/102003274/3ad25d8d-e343-4f74-82de-b37ad3db024d)
+
+### Ordem de Serviço
+Após a criação de requisição e criação da ordem de serviço, é possível verificar a ordem dentro dessa tela. É possível cadastrar novas O.S., editar e excluir dentro dessa feature
+
+![O S](https://github.com/Data-Team23/Jaia/assets/102003274/b8ecd8d1-abb3-4e22-9f50-a5b6641183d1)
+
+### Checklist
+Para a inspeção de algum lugar é necessário ter um checklist de inspeção, nessa tela é possível criar, editar e excluir os checklist.
+![checklist](https://github.com/Data-Team23/Jaia/assets/102003274/150aece1-a56d-408b-b411-be9b57e3699b)
 </details>
 
 <details>
